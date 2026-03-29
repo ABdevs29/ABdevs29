@@ -20,14 +20,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-## 😄 Cool Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdevs29&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdevs29&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdevs29&layout=compact&theme=radical&langs_count=6)
-
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/ABdevs29/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ABdevs29" height="30" width="40" /></a>
