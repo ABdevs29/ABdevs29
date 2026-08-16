@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Abhishek Sateesh Gaonkar, Fullstack developer with interest in all things Tech from <b>Bangalore, Karnataka, India.</b> 
+<p>Welcome to my page! </br> I'm Abhishek Sateesh Gaonkar, Fullstack developer with interest in all things Tech (except LLMs) from <b>Bangalore, Karnataka, India.</b> 
 <br/>I possess a knack for simplifying complex problems and engineering efficient solutions. Driven by a desire to build a beautiful and dynamic internet. Career switcher from Construction to IT.</p>
 
 ## ⚡ Things I code with
